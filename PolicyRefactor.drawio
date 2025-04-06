@@ -214,6 +214,75 @@
         <mxCell id="wNpXnhFg0i9odnBBl2vq-10" value="User Policy Assignment 2 Entity Increase" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vlr_9QEJbuQlJ52Ukgm8-2" target="vlr_9QEJbuQlJ52Ukgm8-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vlr_9QEJbuQlJ52Ukgm8-2" target="vlr_9QEJbuQlJ52Ukgm8-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-2" value="List Policies Under Tenant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vlr_9QEJbuQlJ52Ukgm8-5" target="vlr_9QEJbuQlJ52Ukgm8-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vlr_9QEJbuQlJ52Ukgm8-5" target="vlr_9QEJbuQlJ52Ukgm8-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-5" value="Retrieve Policy A all version" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vlr_9QEJbuQlJ52Ukgm8-17" target="vlr_9QEJbuQlJ52Ukgm8-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-17" value="Policy A Version 0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vlr_9QEJbuQlJ52Ukgm8-18" target="vlr_9QEJbuQlJ52Ukgm8-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-18" value="Policy A Version 299" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vlr_9QEJbuQlJ52Ukgm8-21" target="vlr_9QEJbuQlJ52Ukgm8-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-21" value="Sort and Select Latest one" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vlr_9QEJbuQlJ52Ukgm8-24" target="vlr_9QEJbuQlJ52Ukgm8-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vlr_9QEJbuQlJ52Ukgm8-24" target="vlr_9QEJbuQlJ52Ukgm8-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-24" value="Retrieve Policy B all version" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vlr_9QEJbuQlJ52Ukgm8-25" target="vlr_9QEJbuQlJ52Ukgm8-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-25" value="Policy B Version 0" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vlr_9QEJbuQlJ52Ukgm8-26" target="vlr_9QEJbuQlJ52Ukgm8-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-26" value="Policy B Version 299" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vlr_9QEJbuQlJ52Ukgm8-27" target="vlr_9QEJbuQlJ52Ukgm8-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-27" value="Sort and Select Latest one" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vlr_9QEJbuQlJ52Ukgm8-18" target="vlr_9QEJbuQlJ52Ukgm8-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vlr_9QEJbuQlJ52Ukgm8-34" value="Return Policy A and Policy B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
